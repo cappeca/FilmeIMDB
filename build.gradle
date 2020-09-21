@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+
+mainClassName = 'FilmeIMDB.Main'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.jsoup:jsoup:1.13.1'
+    compile group: 'commons-io', name: 'commons-io', version: '2.4'
+    testImplementation     'junit:junit:4.13'
+}
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FilmeIMDB.ImdbTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-21T19:09:37" hostname="MBP-de-Cesar" time="1.587">
+  <properties/>
+  <testcase name="testQuery" classname="FilmeIMDB.ImdbTest" time="0.981"/>
+  <testcase name="testProcesso" classname="FilmeIMDB.ImdbTest" time="0.606"/>
+  <system-out><![CDATA[The Walking Dead (2010) (TV Series)
+Walking Dead (2007)
+Walking Dead (2014) (Short)
+
+:Walking Dead
+The Walking Dead (2010) (TV Series)
+Fear the Walking Dead (2015) (TV Series)
+Walking Dead (2007)
+
+97:The Walking Dead (2010) (TV Series)
+Fear the Walking Dead (2015) (TV Series)
+Walking Dead (2007)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
